@@ -1,4 +1,4 @@
-# Java-Selenium-Cookiecutter
+# Java-Selenium-Exercise
 
 Note: Creating page objects isn't a requirement and may take more time than we have. Feel free to discuss at the end how you would implement page objects.
 
