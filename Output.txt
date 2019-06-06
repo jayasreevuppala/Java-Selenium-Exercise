@@ -1,0 +1,76 @@
+Starting ChromeDriver 74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}) on port 44976
+Only local connections are allowed.
+Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
+Jun 05, 2019 10:40:22 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+Google image  exists
+Count of 'I am feeling lucky' buttons: 2
+Count of Links on the page: 100
+ --> https://www.paypal.com/us/webapps/mpp/full-sitemap#Menu
+PayPal --> https://www.paypal.com/us/webapps/mpp/home
+PERSONAL --> https://www.paypal.com/us/webapps/mpp/home
+ --> https://www.paypal.com/us/webapps/mpp/home
+ --> https://www.paypal.com/us/webapps/mpp/how-paypal-works/overview
+ --> https://www.paypal.com/us/webapps/mpp/pay-online
+ --> https://www.paypal.com/us/webapps/mpp/credit-line-and-card-services
+ --> https://www.paypal.com/us/webapps/mpp/mobile-apps/paypal-app
+ --> https://www.paypal.com/us/webapps/mpp/what-can-paypal-do
+ --> https://www.paypal.com/us/webapps/mpp/about-paypal-products
+ --> https://www.paypal.com/us/webapps/mpp/full-sitemap#Close
+BUSINESS --> https://www.paypal.com/us/webapps/mpp/merchant
+ --> https://www.paypal.com/us/webapps/mpp/merchant
+ --> https://www.paypal.com/us/webapps/mpp/merchant
+ --> https://www.paypal.com/us/webapps/mpp/business-loans
+ --> https://www.paypal.com/us/webapps/mpp/payment-methods
+ --> https://www.paypal.com/us/webapps/mpp/promotional-financing
+ --> https://www.paypal.com/us/webapps/mpp/business-services
+ --> https://www.paypal.com/us/webapps/mpp/commerce-platform
+ --> https://www.paypal.com/us/smarthelp/home
+ --> https://www.paypal.com/us/webapps/mpp/merchant-fees
+ --> https://www.paypal.com/us/brc
+ --> https://www.paypal.com/us/webapps/mpp/set-up-paypal-business-account
+ --> https://www.paypal.com/us/webapps/mpp/full-sitemap#Close
+com/us/webapps/mpp/merchant
+PayPal Logo Center --> https://www.paypal.com/us/webapps/mpp/logo-center
+Online Invoicing --> https://www.paypal.com/us/webapps/mpp/invoicing-templates
+Internet Merchant Account --> https://www.paypal.com/us/webapps/mpp/merchant
+Accept Credit Cards --> https://www.paypal.com/us/webapps/mpp/credit-card
+Virtual Terminal --> https://www.paypal.com/us/webapps/mpp/virtual-terminal
+Shopping Cart --> https://www.paypal.com/us/webapps/mpp/shopping-cart
+Payflow Payment Gateway --> https://www.paypal.com/us/webapps/mpp/payflow-payment-gateway
+Mass Payments --> https://www.paypal.com/us/webapps/mpp/mass-payments
+PayPal Getting Started Center --> https://www.paypal.com/us/webapps/mpp/get-started
+PayPal Payments Standard --> https://www.paypal.com/us/webapps/mpp/paypal-payments-standard
+PayPal Payments Advanced --> https://www.paypal.com/us/webapps/mpp/paypal-payments-advanced
+PayPal Payments Pro --> https://www.paypal.com/us/webapps/mpp/paypal-payments-pro
+yment-processing
+Political Fundraising --> https://www.paypal.com/us/webapps/mpp/political-contributions-donations
+Government Payments --> https://www.paypal.com/us/webapps/mpp/government-payments
+Accept Donations Online --> https://www.paypal.com/us/webapps/mpp/donations
+PayPal Security Center --> https://www.paypal.com/us/webapps/mpp/paypal-safety-and-security
+PayPal Help Center --> https://www.paypal.com/selfhelp/home
+PayPal Community --> https://www.paypal-community.com/
+The PayPal Blog --> https://www.paypal.com/stories/us
+PayPal on Facebook --> http://www.facebook.com/paypal
+PayPal on Twitter --> https://twitter.com/paypal
+PayPal on LinkedIn --> http://www.linkedin.com/company/paypal
+PayPal on YouTube --> https://www.youtube.com/user/PayPal/featured
+PayPal Press Center --> https://www.paypal.com/us/webapps/mpp/stories/media-resources
+PayPal Executive Team --> https://www.paypal.com/us/webapps/mpp/about#leadership
+PayPal Developers --> https://developer.paypal.com/
+/us/webapps/mpp/paypal-safety-and-security
+Apps --> https://www.paypal.com/us/webapps/mpp/mobile-apps
+Shop --> https://www.paypal.com/us/webapps/mpp/shopping-selection
+See all countries/regions --> https://www.paypal.com/us/webapps/mpp/country-worldwide
+About --> https://www.paypal.com/us/webapps/mpp/about
+Blog --> https://www.paypal.com/stories/us
+Jobs --> https://www.paypal.com/us/webapps/mpp/jobs
+Investor Relations --> https://investor.paypal-corp.com/
+Social Innovation --> https://www.paypal.com/us/webapps/mpp/social-innovation
+Public Policy --> https://publicpolicy.paypal-corp.com/
+Sitemap --> https://www.paypal.com/us/webapps/mpp/full-sitemap
+Enterprise --> https://www.paypal.com/us/webapps/mpp/enterprise
+Partners --> https://www.paypal.com/us/webapps/mpp/partner-program
+Privacy --> https://www.paypal.com/us/webapps/mpp/ua/privacy-full
+Legal --> https://www.paypal.com/us/webapps/mpp/ua/legalhub-full
+Feedback --> https://www.paypal.com/us/webapps/mpp/full-sitemap#
